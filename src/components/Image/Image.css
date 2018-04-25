@@ -1,0 +1,13 @@
+img {
+  width: 250px;
+  height: 200px;
+  border: solid;
+  border-width: 5px;
+  border-color: grey;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  float: left;
+}
+
+
+

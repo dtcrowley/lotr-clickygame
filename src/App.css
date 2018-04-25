@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+
+.App-logo {
+  text-align: left;
+  float: left;
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.App-title {
+  font-size: 1.5em;
+  float: right;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.display-4 {
+  font-size: 100px;
+}
+
+.lead {
+  font-size: 32px;
+}
+
+.score {
+  font-size: 48px;
+}
+
+
